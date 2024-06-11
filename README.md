@@ -22,9 +22,9 @@ Insights and Recommendations:
 Interpreting the discovered rules to gain insights into customer behavior.
 Recommending strategies for cross-selling, inventory management, and promotions.
 Usage
-SQL Queries:
+# SQL Queries:
 Use SQL queries to extract relevant data from BigQuery.
 Explore different dimensions ( time, location, product categories) to refine your analysis.
-Apriori Algorithm:
+# Apriori Algorithm:
 Run the Apriori algorithm on the preprocessed data.
 Adjust support and confidence thresholds to discover meaningful patterns.
